@@ -1,0 +1,15 @@
+iap\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+iap\queue.o: D:\MDK\CORE\ARM\ARMCC\Bin\..\include\stdlib.h
+iap\queue.o: D:\MDK\CORE\ARM\ARMCC\Bin\..\include\string.h
+iap\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+iap\queue.o: D:\MDK\CORE\ARM\ARMCC\Bin\..\include\stddef.h
+iap\queue.o: D:\MDK\CORE\ARM\ARMCC\Bin\..\include\stdint.h
+iap\queue.o: ../Core/Inc/FreeRTOSConfig.h
+iap\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+iap\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+iap\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+iap\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+iap\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+iap\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+iap\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+iap\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
